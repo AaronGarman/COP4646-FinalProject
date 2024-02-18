@@ -1,0 +1,39 @@
+Main Activity
+-fig decimal precision
+-fig $ format w/ settext
+
+TransactionActivity.XML
+-hint do value? or say enter value?
+
+-----------
+
+ListActivity
+-spinner fill w same values as other one
+-spinner for type update list filter based on item selected listener
+-no notify data changed?
+-so display money and description, use type for spinner filter and category for +/-
+
+-adapt list info to items -- codepath guide?
+-custom adapter?
+-iterator future when add to list?
+
+ListActivity.XML
+-spinner for type
+-spacings
+-test list borders ok
+
+ListItem.XML
+-display desc and money values, then +/- for withdrawal/deposit? then for type just use filter?
+-check margin bottom?
+
+-----------
+
+End
+-comments in
+-full test
+-backup code
+-email group
+
+
+get working for now, put a /* NEXT WEEK */ above for array adapter n stuff?
+finish n email, finish regroup. more work if time later
